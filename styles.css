@@ -1,0 +1,20 @@
+.box
+{
+    background-color: lightblue;
+    border: 1px solid blue;
+}
+
+.body
+{
+    background-color: #F7CAC9;
+}
+
+body
+{
+    color: red;
+}
+.vl
+{
+    border-left: 6px lightgreen;
+    
+}
