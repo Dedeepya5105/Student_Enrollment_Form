@@ -33,3 +33,4 @@ function clear()
     console.log("Clear it");
     document.getElementById("myForm").reset();
 }
+
